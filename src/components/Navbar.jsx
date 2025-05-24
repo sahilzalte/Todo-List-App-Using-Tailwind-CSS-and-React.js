@@ -31,7 +31,7 @@ const Navbar = () => {
                 </li>
 
                 <a
-                    href="https://contact-form-snowy-gamma.vercel.app/"
+                    href="https://contact-websites.vercel.app/todoapp.html"
                     target="_blank"
                     rel="noopener noreferrer"
                 >
