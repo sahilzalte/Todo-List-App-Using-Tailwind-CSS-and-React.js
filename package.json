@@ -13,6 +13,7 @@
     "@reduxjs/toolkit": "^2.7.0",
     "@tailwindcss/vite": "^4.1.7",
     "framer-motion": "^12.12.1",
+    "gsap": "^3.13.0",
     "ogl": "^1.0.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
